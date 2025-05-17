@@ -18,7 +18,9 @@ Use GitHub to create repositories of notes, tutorials, and snippets of code, tha
 
 If following a tutorial, leave an abundance of comments throughout the code explaining the key thought processes and explanations provided by the teacher. Write the comments in your own words as you understand the concept. This will definitely increase your understanding. 
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEzNTUzODYsNzY3MDkyNTM2XX0=
+eyJoaXN0b3J5IjpbMTk3NTIwMzE3MCw3NjcwOTI1MzZdfQ==
 -->
