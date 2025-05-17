@@ -14,11 +14,11 @@ A good artificial working memory contains high-value information that is effecti
 As we retrieve info from our artificial working memory and utilize it, it might move from our artificial working memory to our active working memory. 
 
 ### How to create your tree
-Use github to create repositories of notes, tutorials, snippets of code, that can later be accessed when needed. 
+Use GitHub to create repositories of notes, tutorials, and snippets of code, that can later be accessed when needed. 
 
-
+If following a tutorial, leave an abundance of comments throughout the code explaining the key thought processes and explanations provided by the teacher. Write the comments in your own words as you understand the concept. This will definitely increase your understanding. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTY5NjIzNSw3NjcwOTI1MzZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjEzNTUzODYsNzY3MDkyNTM2XX0=
 -->
