@@ -3,11 +3,14 @@
 # How to learn
 
 ## Become a squirrel (Smoljames)
-Squirrels accumulate massive amounts of resources in a tree.  
+Squirrels accumulate massive amounts of resources in a tree.  They could not keep enough resources in their stomach to sustain them for the winter. 
+
 We need to create a "tree" for our resources. **artificial working memory**
 
-Impossible to retain all valuable information you come across, in your active working memory. 
+It is impossible to retain all the valuable information you come across in your active working memory. espe
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1OTg0MjI2LDc2NzA5MjUzNl19
+eyJoaXN0b3J5IjpbLTEyMjE1MDYyNDIsNzY3MDkyNTM2XX0=
 -->
