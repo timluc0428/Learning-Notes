@@ -7,10 +7,12 @@ Squirrels accumulate massive amounts of resources in a tree.  They could not kee
 
 We need to create a "tree" for our resources. **artificial working memory**
 
-It is impossible to retain all the valuable information you come across in your active working memory. espe
+It is impossible to retain all the valuable information you come across in your active working memory. Especially within the realm of programming, networking, cybersecurity, etc. 
+
+A good artificial working memory contains high value information that is effectively indexed and cataloged for later ref
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE1MDYyNDIsNzY3MDkyNTM2XX0=
+eyJoaXN0b3J5IjpbLTE0NDYzODk4MDcsNzY3MDkyNTM2XX0=
 -->
